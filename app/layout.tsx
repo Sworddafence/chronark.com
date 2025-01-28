@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     siteName: "https://justin-lee-website.vercel.app/",
     images: [
       {
-        url: "https://chronark.com/og.png",
+        url: "https://www1.cs.ucr.edu/sites/default/files/2022-09/resized%20-%20Zhiyun%20Qian.png",
         width: 1920,
         height: 1080,
       },
