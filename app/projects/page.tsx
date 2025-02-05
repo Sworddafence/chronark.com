@@ -23,6 +23,13 @@ const socials = [
 		link: "https://github.com/Sworddafence/Womenerdle",
 	},
 	{	
+		date: "2/4/2025",
+		title: "url shortner",
+		description: "Url Shortener is a scalable and cloud-native URL shortening service designed to handle high traffic with ease. Built with modern DevOps practices, the project leverages Docker for containerization and Kubernetes for orchestration, ensuring high availability, scalability, and resilience. The service is ideal for developers looking to deploy a production-ready URL shortener in a microservices architecture.",
+		handle: "url shortner",
+		link: "https://github.com/Sworddafence/url-short",
+	},
+	{
 		date: "11/7/2024",
 		title: "Evo-sim",
 		description: "Evo-Sim is a simulation game built with NEAT and Pygame, where a creature learns to adapt and evolve to eat food efficiently. With a cone of vision as its sensory input, the creature navigates its environment, driven by the NEAT algorithm to improve its behavior over generations. This project explores the intersection of artificial intelligence and evolution, offering a dynamic and engaging way to visualize machine learning in action. Perfect for those interested in AI and game simulations!",
